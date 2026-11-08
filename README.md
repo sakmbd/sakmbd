@@ -34,7 +34,7 @@ My strongest work is in **Node.js, Express.js, TypeScript, REST APIs, GraphQL, M
 - 📦 **Published work:** I maintain an open-source Vue 3 component on npm and a Chrome extension on the Chrome Web Store
 - 🤝 **Agile teams:** peer code reviews, client meetings, and sprint ceremonies with global teams
 
-> 📍 India · Open to relocate · Immediate joiner · 📄 [Download résumé](https://shakeeldev.com/resume.pdf)
+> 📍 India · 📄 [Download résumé](https://shakeeldev.com/resume.pdf)
 
 ---
 
@@ -337,10 +337,6 @@ A **Chrome extension for quick text manipulation**: paste in your text and pick 
   <br/>
   <a href="https://www.npmjs.com/package/vue-rating-kit"><img src="https://img.shields.io/badge/npm-vue--rating--kit-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm package" /></a>
   <a href="https://chromewebstore.google.com/detail/convert-2-case/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/badge/Chrome-Convert_2_Case-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome extension" /></a>
-</p>
-
-<p align="center">
-  <sub>Open to senior full-stack roles · Immediate joiner · Open to relocate</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f766e&height=110&section=footer" alt="" width="100%" />
