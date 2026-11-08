@@ -34,7 +34,7 @@ My strongest work is in **Node.js, Express.js, TypeScript, REST APIs, GraphQL, M
 - 📦 **Published work:** I maintain an open-source Vue 3 component on npm and a Chrome extension on the Chrome Web Store
 - 🤝 **Agile teams:** peer code reviews, client meetings, and sprint ceremonies with global teams
 
-> 📍 India · 📄 [Download résumé](https://shakeeldev.com/resume.pdf)
+> 📍 India · 📄 [Download resume](https://shakeeldev.com/resume.pdf)
 
 ---
 
@@ -184,7 +184,7 @@ My strongest work is in **Node.js, Express.js, TypeScript, REST APIs, GraphQL, M
       <a href="https://shakeeldev.com"><img src="https://img.shields.io/badge/Visit-shakeeldev.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit shakeeldev.com" /></a>
       <a href="https://github.com/sakmbd/shakeel-portfolio"><img src="https://img.shields.io/badge/Source-shakeel--portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
       <br/><br/>
-      My official portfolio has the full story: professional summary, engineering highlights, case-study-style featured experience (Localpages, Itential Automation, Telehealth EHR, Retail POS), a detailed experience timeline, categorized skills, education, and a downloadable résumé.
+      My official portfolio has the full story: professional summary, engineering highlights, case-study-style featured experience (Localpages, Itential Automation, Telehealth EHR, Retail POS), a detailed experience timeline, categorized skills, education, and a downloadable resume.
       <br/><br/>
       <b>Built with:</b> Vue 3 · TypeScript · Quasar (Vite) · Static Site Generation · SEO meta & JSON-LD
     </td>
