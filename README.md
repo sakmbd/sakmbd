@@ -207,6 +207,7 @@ My strongest work is in **Node.js, Express.js, TypeScript, REST APIs, GraphQL, M
 A lightweight, accessible, **TypeScript-first star rating component for Vue 3**, built with the Composition API and styled with pure CSS. It has **zero runtime dependencies** and is SSR-compatible.
 
 **Highlights**
+
 - ✨ Precision ratings: `step` of `1`, `0.5`, `0.25`, `0.2`, `0.1`
 - 🌍 Native RTL through the `dir` attribute
 - 📱 Touch & drag interactions
@@ -222,11 +223,11 @@ npm install vue-rating-kit
 
 ```vue
 <script setup lang="ts">
-import { ref } from 'vue'
-import { VRating } from 'vue-rating-kit'
-import 'vue-rating-kit/style.css'
+import { ref } from 'vue';
+import { VRating } from 'vue-rating-kit';
+import 'vue-rating-kit/style.css';
 
-const rating = ref(2.5)
+const rating = ref(2.5);
 </script>
 
 <template>
@@ -241,32 +242,35 @@ const rating = ref(2.5)
 </td>
 <td width="50%" valign="top">
 
-### 🔠 Convert 2 Case
+### ⚡ Snapbit
 
-<a href="https://chromewebstore.google.com/detail/convert-2-case/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/v/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&logo=googlechrome&logoColor=white&label=version&color=4285F4" alt="Chrome Web Store version" /></a>
-<a href="https://chromewebstore.google.com/detail/convert-2-case/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/users/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&color=0f766e" alt="Chrome Web Store users" /></a>
-<a href="https://chromewebstore.google.com/detail/convert-2-case/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/rating/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&color=f59e0b" alt="Chrome Web Store rating" /></a>
+<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/v/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&logo=googlechrome&logoColor=white&label=version&color=4285F4" alt="Chrome Web Store version" /></a>
+<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/users/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&color=0f766e" alt="Chrome Web Store users" /></a>
+<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/rating/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&color=f59e0b" alt="Chrome Web Store rating" /></a>
+<img src="https://img.shields.io/badge/Manifest-V3-34A853?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3" />
 
-A **Chrome extension for quick text manipulation**: paste in your text and pick the case you want. It's listed in the Chrome Web Store under *Productivity → Tools*, and the developer has disclosed that it **does not collect or use your data**.
+_Small tools. Big productivity._
 
-**Supported conversions**
+An **all-in-one Chrome productivity toolkit** combining screenshot capture, image editing, screen recording, color picking, and text case conversion, all in a single extension.
 
-| Action | Result |
-| --- | --- |
-| UPPERCASE | `HELLO WORLD` |
-| lowercase | `hello world` |
-| Sentence case | `Hello world` |
-| Capitalize | `Hello World` |
-| Remove Extra Spaces | cleans up spacing and formatting |
+**Highlights**
 
-**Use cases**
-- ✍️ Fix headings, titles, and copy without retyping
-- 🧹 Clean pasted text that has extra spaces
-- ⏱️ Format text quickly while writing or editing
+- 📸 **Screenshot Capture**: visible area, selected region, or full page
+- 🖌️ **Image Editor**: crop, resize, rotate, and flip; drawing, shapes, and arrows; text annotations and highlighting; blur and pixelate
+- 🎥 **Screen Recorder**: tab, window, or full screen, with optional microphone and audio settings · WebM output
+- 🎨 **Color Picker**: native EyeDropper API · HEX, RGB, and HSL formats
+- 🔠 **Text Case Converter**: `camelCase` · `PascalCase` · `snake_case` · `kebab-case` · `CONSTANT_CASE` and more
 
-<br/>
+**Philosophy**
 
-<a href="https://chromewebstore.google.com/detail/convert-2-case/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/badge/Available_in_the-Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Available in the Chrome Web Store" /></a>
+- 💸 Completely free: no ads, no premium plans
+- 👤 No account required
+- 🔒 Privacy-focused: your content is processed locally in the browser
+
+**Tech:** Vue 3 · Quasar · TypeScript · Chrome Extension Manifest V3
+
+<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
+<a href="https://sakmbd.github.io/snapbit-site/"><img src="https://img.shields.io/badge/Website-Snapbit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 </td>
   </tr>
@@ -274,10 +278,10 @@ A **Chrome extension for quick text manipulation**: paste in your text and pick 
 
 ### 🧩 Other Open-Source Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**node-express-boilerplate**](https://github.com/sakmbd/node-express-boilerplate) | A minimal, modular Node.js + Express.js boilerplate with MongoDB, authentication, validation, logging, and security best practices | Node.js · Express.js · MongoDB |
-| [**gif-to-mp4**](https://github.com/sakmbd/gif-to-mp4) · [live](https://gif-to-mp4.onrender.com/) | An app that converts GIFs to MP4 | JavaScript |
+| Project                                                                                           | Description                                                                                                                        | Stack                          |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| [**node-express-boilerplate**](https://github.com/sakmbd/node-express-boilerplate)                | A minimal, modular Node.js + Express.js boilerplate with MongoDB, authentication, validation, logging, and security best practices | Node.js · Express.js · MongoDB |
+| [**gif-to-mp4**](https://github.com/sakmbd/gif-to-mp4) · [live](https://gif-to-mp4.onrender.com/) | An app that converts GIFs to MP4                                                                                                   | JavaScript                     |
 
 ---
 
