@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://shakeeldev.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=10%2B+years+building+scalable+web+applications;Node.js+%E2%80%A2+Express.js+%E2%80%A2+TypeScript+%E2%80%A2+GraphQL;Vue.js+%E2%80%A2+React.js+%E2%80%A2+Nuxt.js+%E2%80%A2+Next.js;Author+of+vue-rating-kit+%26+Convert+2+Case" alt="Typing summary" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=10%2B+years+building+scalable+web+applications;Node.js+%E2%80%A2+Express.js+%E2%80%A2+TypeScript+%E2%80%A2+GraphQL;Vue.js+%E2%80%A2+React.js+%E2%80%A2+Nuxt.js+%E2%80%A2+Next.js;Author+of+vue-rating-kit+%26+Zimoka" alt="Typing summary" />
   </a>
 </p>
 
@@ -242,22 +242,24 @@ const rating = ref(2.5);
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Snapbit
+### ⚡ Zimoka
 
-<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/v/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&logo=googlechrome&logoColor=white&label=version&color=4285F4" alt="Chrome Web Store version" /></a>
-<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/users/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&color=0f766e" alt="Chrome Web Store users" /></a>
-<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/rating/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&color=f59e0b" alt="Chrome Web Store rating" /></a>
+<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/v/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&logo=googlechrome&logoColor=white&label=version&color=4285F4" alt="Zimoka Chrome Web Store version" /></a>
+<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/users/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&color=0f766e" alt="Zimoka Chrome Web Store users" /></a>
+<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/chrome-web-store/rating/jkehbmbghegdemomfhkcbdddpibnjppe?style=flat-square&color=f59e0b" alt="Zimoka Chrome Web Store rating" /></a>
 <img src="https://img.shields.io/badge/Manifest-V3-34A853?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3" />
 
 _Small tools. Big productivity._
 
-An **all-in-one Chrome productivity toolkit** combining screenshot capture, image editing, screen recording, color picking, and text case conversion, all in a single extension.
+**Zimoka** is an **all-in-one Chrome productivity toolkit** combining screenshot capture, image editing, screen recording, color picking, and text case conversion, all in a single extension.
 
 **Highlights**
 
-- 📸 **Screenshot Capture**: visible area, selected region, or full page
-- 🖌️ **Image Editor**: crop, resize, rotate, and flip; drawing, shapes, and arrows; text annotations and highlighting; blur and pixelate
-- 🎥 **Screen Recorder**: tab, window, or full screen, with optional microphone and audio settings · WebM output
+- 📸 **Screenshot Capture**: visible area, selected area, or full page
+- 🎯 **Selected-Area Quick Actions**: Cancel, Copy, Capture, and Open in Editor
+- 🖌️ **Image Editor**: crop, rotate, flip, and resize; drawing, shapes, and arrows; annotations and highlighting; blur and pixelation; stickers, watermarks, and callouts
+- 🖼️ **Image Import**: PNG, JPEG, WebP, and GIF files, clipboard paste, and drag-and-drop
+- 🎥 **Screen Recorder**: browser tab, application window, or entire screen, with optional audio and microphone · WebM output
 - 🎨 **Color Picker**: native EyeDropper API · HEX, RGB, and HSL formats
 - 🔠 **Text Case Converter**: `camelCase` · `PascalCase` · `snake_case` · `kebab-case` · `CONSTANT_CASE` and more
 
@@ -269,8 +271,9 @@ An **all-in-one Chrome productivity toolkit** combining screenshot capture, imag
 
 **Tech:** Vue 3 · Quasar · TypeScript · Chrome Extension Manifest V3
 
-<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
-<a href="https://sakmbd.github.io/snapbit-site/"><img src="https://img.shields.io/badge/Website-Snapbit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install Zimoka from the Chrome Web Store" /></a>
+<a href="https://zimoka.com/"><img src="https://img.shields.io/badge/Website-zimoka.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zimoka website" /></a>
+<a href="https://zimoka.com/#privacy"><img src="https://img.shields.io/badge/Privacy-Policy-0F766E?style=for-the-badge&logoColor=white" alt="Zimoka privacy policy" /></a>
 
 </td>
   </tr>
@@ -340,7 +343,7 @@ An **all-in-one Chrome productivity toolkit** combining screenshot capture, imag
   <a href="mailto:sakmbd@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br/>
   <a href="https://www.npmjs.com/package/vue-rating-kit"><img src="https://img.shields.io/badge/npm-vue--rating--kit-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm package" /></a>
-  <a href="https://chromewebstore.google.com/detail/convert-2-case/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/badge/Chrome-Convert_2_Case-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome extension" /></a>
+  <a href="https://chromewebstore.google.com/detail/jkehbmbghegdemomfhkcbdddpibnjppe"><img src="https://img.shields.io/badge/Chrome-Zimoka-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zimoka Chrome extension" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f766e&height=110&section=footer" alt="" width="100%" />
